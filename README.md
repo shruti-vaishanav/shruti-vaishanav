@@ -3,7 +3,7 @@
 - 🌱 I’m Frontend Developer.
 - 🔭 I’m currently working on **ReactJs**
 - 💬 Ask me about anything, **I am happy to help;**
-- 📫 How to reach me: LinkedIn: [shrutiVaishanav]([your-linkedin-url](https://www.linkedin.com/in/shruti-v-b8104824b/))
+- 📫 How to reach me: LinkedIn: [shrutiVaishanav]([https://www.linkedin.com/in/shruti-v-b8104824b/])
 - ⚡ Fun fact **keep it simple;**
 
 <h3 align="left">Languages and Tools:</h3>
